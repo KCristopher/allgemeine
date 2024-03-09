@@ -1,0 +1,54 @@
+1709947334856	geckodriver	INFO	Listening on 127.0.0.1:21187
+1709947337886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Predator\\AppData\\Local\\Temp\\rust_mozprofile1uHyDr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709947338419	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709947338878	Marionette	INFO	Listening on port 21199
+Read port: 21199
+1709947339038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.faz.net/cp60/async/iqadcontroller.js, line 7: unreachable code after return statement
+1709947368969	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2421))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.faz.net/cp60/async/iqadcontroller.js, line 7: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 1522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://d2qlq4kdetaeuz.cloudfront.net/eyewise-id-module/eyewise-module-consent-v2.js?token=dGVzdHRva2VuOg==, line 1: SyntaxError: redeclaration of let start
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1690: Error: permitUnload is already running for this tab.
+JavaScript warning: https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js, line 1933: Script terminated by timeout at:
+g.xB/<@https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js:1933:49
+setInterval handler*g.MB@https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js:1957:69
+CC@https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js:2066:181
+Gta@https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js:2387:1
+cRa@https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js:4456:220
+g.T0@https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js:7069:485
+g.T0.create@https://www.youtube.com/s/player/c48a9559/player_ias.vflset/en_US/base.js:12704:198
+ix/a.D@https://www.youtube.com/s/player/c48a9559/www-embed-player.vflset/www-embed-player.js:1839:433
+ix@https://www.youtube.com/s/player/c48a9559/www-embed-player.vflset/www-embed-player.js:1840:12
+m.loadNewVideoConfig@https://www.youtube.com/s/player/c48a9559/www-embed-player.vflset/www-embed-player.js:1834:168
+fx/this.ea<@https://www.youtube.com/s/player/c48a9559/www-embed-player.vflset/www-embed-player.js:1832:407
+setTimeout handler*fx@https://www.youtube.com/s/player/c48a9559/www-embed-player.vflset/www-embed-player.js:1832:383
+zx@https://www.youtube.com/s/player/c48a9559/www-embed-player.vflset/www-embed-player.js:1871:262
+@https://www.youtube.com/s/player/c48a9559/www-embed-player.vflset/www-embed-player.js:1883:152
+@https://www.youtube.com/embed/C-C8xgyFaJg?enablejsapi=1&wmode=transparent&start=&end=&embed_config=%7B%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F183%2Fiqdfaz%2Fvideoplayer_youtube%22%2C%22cust_params%22%3A%22player%253Dyoutube%2526pos%253Dpre%2526kw%253Diqadtile169%252Ciqlive%22%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D:10:871
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2560: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2560: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2560: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2560: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2560: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
